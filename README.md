@@ -1,6 +1,6 @@
 # **Jokes App** 🤣
 
-A Flutter-based jokes app that fetches a collection of fun jokes from an API, displays them beautifully, and works offline by caching fetched jokes. This app provides a simple and elegant user experience with a vibrant purple theme.
+A Flutter-based jokes app that fetches a collection of fun jokes from an API, displays them beautifully and works offline by caching fetched jokes. This app provides a simple and elegant user experience with a vibrant purple theme.
 
 ---
 
@@ -8,7 +8,7 @@ A Flutter-based jokes app that fetches a collection of fun jokes from an API, di
 - 🎭 Fetch a collection of jokes (limited to 5 at a time).
 - 💾 Offline functionality with cached jokes.
 - 🌐 Connectivity status detection.
-- 🖌️ Stylish UI with a purple gradient theme.
+- 🖌️ Stylish UI with a blue gradient theme.
 - 📦 Built with Flutter and Dart.
 
 ---
